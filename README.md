@@ -1,2 +1,2 @@
-# TrabalhoCPW
-Trabalho de construção de um Portfolio digital hospedado no GitHub Pages.
+# TrabalhoCPW - Prototipo
+Prototipo do trabalho de construção de um Portfolio digital hospedado no GitHub Pages.
